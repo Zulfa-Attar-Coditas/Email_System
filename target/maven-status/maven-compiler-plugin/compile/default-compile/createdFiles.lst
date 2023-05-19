@@ -1,0 +1,4 @@
+com\example\Email_System\entity\MailContents.class
+com\example\Email_System\EmailSystemApplication.class
+com\example\Email_System\service\EmailSenderService.class
+com\example\Email_System\controller\EmailController.class
